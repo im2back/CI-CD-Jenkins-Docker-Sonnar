@@ -1,4 +1,4 @@
-# Jenkis
+# Jenkins
 Este repositório foi criado para ser um recurso de estudo enquanto eu automatizava os processos de Integração Contínua (CI) e Entrega Contínua (CD).<br>
 
 Link do vídeo onde eu explico e executo o processo:  https://www.linkedin.com/feed/update/urn:li:activity:7168624777371328512/
